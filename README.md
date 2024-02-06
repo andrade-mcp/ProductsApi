@@ -5,7 +5,7 @@ This documentation outlines the endpoints and functionalities of the Products AP
 
 ## API Endpoints
 
-### 1. Submit Trade
+### 1. Health Check
 - **Endpoint:** `GET /`
 - **Description:** Anonymous, health check/OK endpoint.
 - **Request Format:**
