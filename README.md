@@ -51,7 +51,7 @@ This documentation outlines the endpoints and functionalities of the Products AP
       "colour": "string"
     }
 
-### 3\. Get Prices for Symbols
+### 3\. Get Products by colour
 
 -   Endpoint: `GET /api/products/{colour}`
 -   Description: Get all products of a specific colour
